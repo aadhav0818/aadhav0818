@@ -9,5 +9,4 @@
 #### Projects
 Check out [Polar](https://github.com/Arcturusss/Polar-Discord), a Discord Application I have been programming for quite some time now. 
 
-#### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcturusss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
