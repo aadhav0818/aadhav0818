@@ -11,4 +11,3 @@ Check out [Polar](https://github.com/Arcturusss/Polar-Discord), a Discord Applic
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcturusss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe src="https://discordapp.com/widget?id=875139099944710204&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
