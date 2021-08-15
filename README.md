@@ -1,4 +1,4 @@
-### Hello There, I'm Arcturus
+### Hello There 👋
 
 -  :smile: I'm currently in high school and I enjoy programming.
 -  :round_pushpin: I'm located within the Dallas Fort-Worth Metroplex in TX.
