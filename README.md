@@ -1,6 +1,6 @@
 ### Hello There 👋
 
--  :smile: I'm currently in high school and I enjoy programming.
+-  :smile: I'm Aadhav, and I'm currently an Aerospace Engineering student at UT Austin.
 -  :round_pushpin: I'm located within the Dallas Fort-Worth Metroplex in TX.
 
 #### Languages / Skills
@@ -9,5 +9,5 @@
 #### Projects
 Rocket Simulation
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcturusss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadhav0818&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
