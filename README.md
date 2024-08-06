@@ -11,6 +11,7 @@
 - Scientific Computing
 - Low-level programming
 - Vanilla Web Development
+- Embedded Development
 - API Programming
 
 
