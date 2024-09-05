@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 -  Hi I'm Aadhav, and I'm currently studying Aerospace Engineering at UT Austin.
--  I'm located within the Dallas Fort-Worth Metroplex in TX.
+-  I'm from the Dallas-Fort Worth Metroplex in Texas
 -  Undergraduate Freshman
 
 #### Languages / Skills
