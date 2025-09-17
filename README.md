@@ -1,5 +1,4 @@
 ### Highlighted Links
-- Check these out:
 - **https://aadhav-ilangovan.vercel.app**
 - https://linkedin.com/in/aadhav-ilangovan/
 
