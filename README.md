@@ -1,7 +1,7 @@
 ### Highlighted Links
 - Check these out:
-- **aadhav-ilangovan.vercel.app**
-- linkedin.com/in/aadhav-ilangovan/
+- **https://aadhav-ilangovan.vercel.app**
+- https://linkedin.com/in/aadhav-ilangovan/
 
 ### About me 
 
