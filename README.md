@@ -11,8 +11,8 @@
 #### Programming Skills
 MATLAB, Python, C/C++, NumPy, Matplotlib, OpenGL, Qt, PyQt, Git, Linux 
 #### Core programming areas
-- Scientific Computing
-- Computation
+- Scientific and Engineering Computation
+- Orbital Mechanics and Navigation Simulations
 - Low-level programming
 - Embedded Development
 
